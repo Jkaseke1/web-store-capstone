@@ -1,0 +1,33 @@
+/* LandingPage.css */
+
+.landing-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .landing-page__header {
+    margin-bottom: 40px;
+  }
+  
+  .landing-page__features {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+  }
+  
+  .feature {
+    flex-basis: 30%;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+  }
+  
+  .landing-page__footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    font-size: 12px;
+    color: #888;
+  }
+  
+
+  
